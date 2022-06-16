@@ -1,0 +1,25 @@
+{
+  "name": "gitbook_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "honkit init",
+    "serve": "honkit serve",
+    "build": "honkit build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FgSurewin/Gitbook_Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FgSurewin/Gitbook_Test/issues"
+  },
+  "homepage": "https://github.com/FgSurewin/Gitbook_Test#readme",
+  "devDependencies": {
+    "honkit": "^3.7.3"
+  }
+}
